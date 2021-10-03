@@ -1,5 +1,5 @@
-#!/home/jacker/anaconda3/bin/python3
 #!/usr/bin/python3
+#!/home/jacker/anaconda3/bin/python3
 import sys
 from typing import Pattern
 from PyQt5 import QtGui
